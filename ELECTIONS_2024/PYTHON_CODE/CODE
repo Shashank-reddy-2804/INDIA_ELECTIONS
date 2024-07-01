@@ -1,4 +1,4 @@
-#used INTELLIJ compiler to run the below code, to scrape the data from the website given.
+#used INTELLIJ compiler to run the below code, to scrape the data from the website "https://results.eci.gov.in".
 
 import requests
 from bs4 import BeautifulSoup
